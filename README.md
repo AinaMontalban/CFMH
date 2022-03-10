@@ -1,9 +1,9 @@
 # Code For Mental Health - bitsxlaMarató 2021 Hackathon
 
 ## Authors: 
-* Lluis Grifols
-* Paula Iborra
-* Aina Montalban
+* Lluis 
+* Paula 
+* Aina 
 
 ## Description
 
